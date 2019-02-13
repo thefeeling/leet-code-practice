@@ -1,6 +1,4 @@
-package me.daniel.leetcode
-
-import java.util.HashSet
+package me.daniel.leetcode.longestSubstringWithoutRepeatingCharacters
 
 
 //fun lengthOfLongestSubstring(s: String): Int {

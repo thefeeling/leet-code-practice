@@ -1,4 +1,4 @@
-package me.daniel.leetcode
+package me.daniel.leetcode.addTwoNumbers
 
 /**
  * Example:

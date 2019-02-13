@@ -1,4 +1,4 @@
-package me.daniel.leetcode
+package me.daniel.leetcode.longestPalindrome
 
 
 fun longestPalindrome(s: String): String {

@@ -1,4 +1,4 @@
-package me.daniel.leetcode
+package me.daniel.leetcode.containerWithMostWater
 
 fun maxArea(height: IntArray): Int {
     var maxArea = 0

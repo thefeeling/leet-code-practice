@@ -1,7 +1,6 @@
-package me.daniel.leetcode
+package me.daniel.leetcode.stringtoInteger
 
 import java.math.BigInteger
-import java.util.regex.Pattern
 
 
 fun checkSignChar(char: Char) : Boolean {
