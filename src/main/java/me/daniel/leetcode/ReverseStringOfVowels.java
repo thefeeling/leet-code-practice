@@ -1,4 +1,4 @@
-package me.daniel.leetcode.before;
+package me.daniel.leetcode;
 
 
 import java.util.*;
